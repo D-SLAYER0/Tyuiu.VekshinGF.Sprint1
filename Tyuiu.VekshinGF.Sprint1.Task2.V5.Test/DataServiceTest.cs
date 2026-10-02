@@ -1,6 +1,6 @@
-﻿using Tyuiu.VekshinGF.Sprint1.Task1.V5.Lib;
+﻿using Tyuiu.VekshinGF.Sprint1.Task2.V5.Lib;
 
-namespace Tyuiu.VekshinGF.Sprint1.Task1.V5.Test
+namespace Tyuiu.VekshinGF.Sprint1.Task2.V5.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -8,7 +8,6 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V5.Test
         [TestMethod]
         public void TestMethod1()
         {
-            
             DataService ds = new DataService();
             int x = 2;
             var res = ds.CalculateSideSquare(x);
