@@ -14,4 +14,5 @@ namespace Tyuiu.VekshinGF.Sprint1.Task2.V5.Test
             Assert.AreEqual(4, res);
         }
     }
+
 }

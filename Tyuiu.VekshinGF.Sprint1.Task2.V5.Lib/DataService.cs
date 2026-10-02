@@ -9,4 +9,5 @@ namespace Tyuiu.VekshinGF.Sprint1.Task2.V5.Lib
             return value * value;
         }
     }
+
 }
