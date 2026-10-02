@@ -26,6 +26,7 @@ namespace Tyuiu.VekshinGF.Sprint1.Task2.V5
             Console.WriteLine("***************************************************************************");
 
 
+
             int x;
 
             Console.WriteLine("Длина стороны квадрата X: ");
