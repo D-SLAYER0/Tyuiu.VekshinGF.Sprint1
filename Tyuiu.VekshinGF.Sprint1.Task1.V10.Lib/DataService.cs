@@ -6,7 +6,7 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V10.Lib
     {
         public double Calculate(double x, double y)
         {
-            return x / (1 -  y);
+            return (x + y )/ (1 -  x);
         }
     }
 }

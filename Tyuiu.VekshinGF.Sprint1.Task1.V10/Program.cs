@@ -16,11 +16,11 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V10
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #22                                                             *");
-            Console.WriteLine("* Выполнил: Векшин Г. Ф. | ПИНб-26-1                                    *");
+            Console.WriteLine("* Вариант #10                                                             *");
+            Console.WriteLine("* Выполнил: Векшин Г. Ф. | ПИНб-26-1                                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Написать программу, которая вычисляет выражение 6*2-(5-3)             *");
+            Console.WriteLine("* вычисляет результат по формуле (x+y)/(1+x)                              *");
             Console.WriteLine("* и печатает результат на экране.                                         *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");

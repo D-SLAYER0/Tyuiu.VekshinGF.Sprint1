@@ -9,10 +9,10 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V10.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double x = 1.0;
-            double y = 2.0;
+            double x = 2.0;
+            double y = -1.0;
             var res = ds.Calculate  (x, y);
-            Assert.AreEqual (-1, res);
+            Assert.AreEqual (-1.0, res);
         }
     }
 }
