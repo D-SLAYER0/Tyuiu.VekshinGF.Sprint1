@@ -8,6 +8,7 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V5.Test
         [TestMethod]
         public void TestMethod1()
         {
+            
             DataService ds = new DataService();
             int x = 2;
             var res = ds.CalculateSideSquare(x);

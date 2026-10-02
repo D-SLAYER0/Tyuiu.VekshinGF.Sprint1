@@ -24,8 +24,7 @@ namespace Tyuiu.VekshinGF.Sprint1.Task1.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-
-
+            
             int x;
 
             Console.WriteLine("Введите значение X: ");
